@@ -20,3 +20,6 @@ After a branch under dev is completed, it will then be merged into the main bran
 
 ### Credentials and sensitive info storage:
 This information will be added to .gitignore files (files that will be ignored when they are uploaded to the repo).
+
+### Burnout Chart:
+![image](https://user-images.githubusercontent.com/99386016/185411950-7b1e7ffa-b1f5-4038-aa68-eb7b89d11a7e.png)
